@@ -1,4 +1,4 @@
-# Sentiment-Analysis-NLP
+# Imdb Dataset Sentiment-Analysis-NLP
 
 IMDB Sentiment Analysis
 Dataset includes 5000 review which divided into 'positive' and 'negative'
